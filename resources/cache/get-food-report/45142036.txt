@@ -1,0 +1,20 @@
+
+-------------------------------------
+FOOD REPORT
+-------------------------------------
+
+Name: 
+RAFFAELLO, ALMOND COCONUT TREAT, UPC: 009800146130
+Unique Number in Data Base (NDBNO): 
+45142036
+
+Ingredients: 
+VEGETABLE OILS (PALM AND SHEANUT). DRY COCONUT, SUGAR, ALMONDS, SKIM MILK POWDER, WHEY POWDER (MILK), WHEAT FLOUR, NATURAL AND ARTIFICIAL FLAVORS, LECITHIN AS EMULSIFIER (SOY), SALT, SODIUM BICARBONATE AS LEAVENING AGENT.
+
+Nutrients: Energy: 633kcal
+Protein: 6.67g
+Total lipid (fat): 50.00g
+Carbohydrate, by difference: 40.00g
+Fiber, total dietary: 3.3g
+
+-------------------------------------
