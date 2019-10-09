@@ -14,13 +14,15 @@ Food Analyzer e многонишково клиент-сървър прилож�
     
     Например, при получаване на командата `get-food raffaello`, сървърът прави следната _HTTP GET_ заявка: [https://api.nal.usda.gov/ndb/search/?q=raffaello&api_key=DEMO_KEY](https://api.nal.usda.gov/ndb/search/?q=raffaello&api_key=DEMO_KEY) и получава _HTTP response_ със статус код _200_ и с тяло следния _JSON_:
 
+
+
     {
-      "list": {  
-        "q": "raffaello",  
-        "sr": "1",  
-        "ds": "any",  
-        "start": 0,  
-        "end": 1, 
+      "list": {
+        "q": "raffaello",
+        "sr": "1",
+        "ds": "any",
+        "start": 0,
+        "end": 1,
         "total": 1,
         "group": "",
         "sort": "r",
