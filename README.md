@@ -16,28 +16,28 @@ Food Analyzer e многонишково клиент-сървър прилож�
 
 
 
-    {
-      "list": {
-        "q": "raffaello",
-        "sr": "1",
-        "ds": "any",
-        "start": 0,
-        "end": 1,
-        "total": 1,
-        "group": "",
-        "sort": "r",
-        "item": [
-          {
-            "offset": 0,
-            "group": "Branded Food Products Database",
-            "name": "RAFFAELLO, ALMOND COCONUT TREAT, UPC: 009800146130",
-            "ndbno": "45142036",
-            "ds": "LI",
-            "manu": "Ferrero U.S.A., Incorporated"
-          }
-        ]
+<pre><code>{
+  &quot;list&quot;: {
+    &quot;q&quot;: &quot;raffaello&quot;,
+    &quot;sr&quot;: &quot;1&quot;,
+    &quot;ds&quot;: &quot;any&quot;,
+    &quot;start&quot;: 0,
+    &quot;end&quot;: 1,
+    &quot;total&quot;: 1,
+    &quot;group&quot;: &quot;&quot;,
+    &quot;sort&quot;: &quot;r&quot;,
+    &quot;item&quot;: [
+      {
+        &quot;offset&quot;: 0,
+        &quot;group&quot;: &quot;Branded Food Products Database&quot;,
+        &quot;name&quot;: &quot;RAFFAELLO, ALMOND COCONUT TREAT, UPC: 009800146130&quot;,
+        &quot;ndbno&quot;: &quot;45142036&quot;,
+        &quot;ds&quot;: &quot;LI&quot;,
+        &quot;manu&quot;: &quot;Ferrero U.S.A., Incorporated&quot;
       }
-    }
+    ]
+  }
+}</code></pre>
 
 Заявките към REST API-то изискват автентикация с API key.
 
