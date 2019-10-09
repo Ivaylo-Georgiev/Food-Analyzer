@@ -16,8 +16,8 @@ Food Analyzer e многонишково клиент-сървър прилож�
 
    `{  
   "list": {  
-    &nbsp;"q": "raffaello",  
-    &nbsp;"sr": "1",  
+    >"q": "raffaello",  
+    >"sr": "1",  
     "ds": "any",  
     "start": 0,  
     "end": 1,  
