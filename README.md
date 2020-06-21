@@ -62,3 +62,4 @@ get-food butter
 get-food-report 45142036
 get-food-by-barcode --img=D:\User\Photos\BarcodeImage.jpg --upc=03600029142
 ```
+> _Made with 🔥 for the Modern Java Technologies course at FMI 2019_
