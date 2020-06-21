@@ -6,6 +6,11 @@ Food Analyzer is a multi-threaded client-server application, which informs us ab
 
 One of the fullest and most detailed resources for such information is [the food database](https://ndb.nal.usda.gov/ndb/) of [U.S. Department of Agriculture](https://www.usda.gov/). This information is publicly accessible via the free REST API, which is documented [here](https://ndb.nal.usda.gov/ndb/doc/apilist/API-FOOD-REPORTV2.md).
 
+## Installation
+
+### Clone 
+Clone this repo to your local machine using `https://github.com/Ivaylo-Georgiev/Food-Analyzer.git`
+
 ## Food Analyzer Server
 
 -   The server can manage multiple clients simultaneously.
